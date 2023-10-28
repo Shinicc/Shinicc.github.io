@@ -1,4 +1,4 @@
-# Curiculum Vitae
+### Curiculum Vitae
 Phan Trung Hieu is currently a first-year student at UIT
  and achieved 3rd place in the province's students in Physics (2022). He has ants
  Strong knowledge of Physics and natural sciences, along with skills
